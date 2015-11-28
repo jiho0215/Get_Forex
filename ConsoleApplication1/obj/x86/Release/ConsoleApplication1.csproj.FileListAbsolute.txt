@@ -1,0 +1,12 @@
+G:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+G:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+F:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+F:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+F:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.manifest
+F:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\bin\Release\ConsoleApplication1.application
+F:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+F:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+F:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe.manifest
+F:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.application
+G:\Personal\Programming\C#2010\fx_01_ver1.4\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
